@@ -1,0 +1,9 @@
+[submodule "inkedBackend"]
+	path = inkedBackend
+	url = https://github.com/thekingiscold/inked-core.git
+[submodule "inkedUI"]
+	path = inkedUI
+	url = https://github.com/thekingiscold/inked-ui.git
+[submodule "inkedReactNative"]
+	path = inkedReactNative
+	url = https://github.com/thekingiscold/react-native-inked.git
